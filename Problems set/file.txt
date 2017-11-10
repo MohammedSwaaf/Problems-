@@ -1,0 +1,7 @@
+From:from@mail.com
+To:to@mail.com
+
+Hi,Mohamed
+This is an email tamplate
+thanks
+Email Subject

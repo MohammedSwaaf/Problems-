@@ -1,0 +1,5 @@
+a=int(input("Please Enter your First Number \n"))
+b=int(input("Please Enter your Second Number \n"))
+print ("Sum = ",a+b)
+print ("Sub = ",a-b)
+print ("Mul = ",a*b)

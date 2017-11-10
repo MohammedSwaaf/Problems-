@@ -1,0 +1,6 @@
+I learned from Mohammed Essa at Youtube
+I'm learning Django framework
+I finished from Models
+Now i can do new fields and after finish of it 
+I can do migration to my project and i can add pages to admin
+This my pictures for show you what i did . 
